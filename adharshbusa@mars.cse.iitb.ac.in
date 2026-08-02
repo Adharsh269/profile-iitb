@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 </head>
@@ -14,7 +14,7 @@
     <header>
         <div class="header">
             <div class="reload">
-                <a href="#"><img src="./images/pngwing.com.png" alt="tobi" class="head-img"></a>
+                <a href="#"><img src="./img/pngwing.com.png" alt="tobi" class="head-img"></a>
             </div>
             <div class="links">
                     <a href="#about-me">About</a>
@@ -26,7 +26,7 @@
     </header>
     <div class="all">
         <div class="upper-part">
-            <img src="./images/Profile-pic.png" alt="profile" class="profile-pic">
+            <img src="./img/Profile-pic.jpg" alt="profile" class="profile-pic">
             <div class="person-name">
                 <h1 class="tag">Adharsh Busa</h1>
             </div>
@@ -53,10 +53,10 @@
         <div class="skills" id="skills">                
                 <h2><i class="fa-solid fa-laptop-code"></i> Skills</h2>
             <div class="skill-img">
-                <img src="./images/free-java-3d-icon-png-download-7578017.png" alt="java" id="skill-img1">
-                <img src="./images/python-programming-language-icon.png" alt="python" id="skill-img2">
-                <img src="./images/5968267.png" alt="html" id="skill-img3">
-                <img src="./images/postgreesql.png" alt="postgreesql" id="skill-img4">
+                <img src="./img/free-java-3d-icon-png-download-7578017.webp" alt="java" id="skill-img1">
+                <img src="./img/python-programming-language-icon.webp" alt="python" id="skill-img2">
+                <img src="./img/5968267.webp" alt="html" id="skill-img3">
+                <img src="./img/postgreesql.webp" alt="postgreesql" id="skill-img4">
             </div>
         </div>
         <div class="projects" id="projects">
