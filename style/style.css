@@ -104,7 +104,7 @@ h2{
     align-content: flex-start;
 }
 
-#skill-img{
+#skill-img1, #skill-img2, #skill-img3, #skill-img4{
     height: 150px;
 }
 
